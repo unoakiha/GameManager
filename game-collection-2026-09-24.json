@@ -1,0 +1,31 @@
+{
+  "format": "game-collection-v1",
+  "games": [
+    {
+      "id": "9d10373c-7c4b-44e1-b38d-4a3f7cb4ba00",
+      "createdAt": "2026-09-24T07:03:35.480Z",
+      "jan": "4995857080267",
+      "title": "お掃除戦隊くりーんきーぱー [通常版]",
+      "platform": "Wii",
+      "publisher": "アイディアファクトリー",
+      "releaseDate": "2008-04-24",
+      "retailPrice": "7480",
+      "model": "RVL-P-RC5J",
+      "genre": "おそうじアドベンチャー",
+      "cero": "C",
+      "players": "1",
+      "imageUrl": "https://cdn.suruga-ya.jp/database/pics_webp/game/102000185.jpg.webp",
+      "ownership": "owned",
+      "playStatus": "playing",
+      "purchasePrice": "500",
+      "purchasePlace": "駿河屋",
+      "purchaseDate": "",
+      "tags": "",
+      "memo": "",
+      "box": true,
+      "manual": false,
+      "favorite": false,
+      "imageData": ""
+    }
+  ]
+}
